@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-fluid",
+  "version": "0.0.1",
+  "description": "generate fluid font sizes for tailwindcss",
+  "main": "index.cjs",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changethe/tailwind-fluid.git"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changethe/tailwind-fluid/issues"
+  },
+  "homepage": "https://github.com/changethe/tailwind-fluid#readme"
+}
