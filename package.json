@@ -1,6 +1,6 @@
 {
   "name": "tailwind-fluid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "generate fluid font sizes for tailwindcss",
   "main": "index.cjs",
   "scripts": {},
