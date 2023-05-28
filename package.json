@@ -1,12 +1,12 @@
 {
-  "name": "tailwind-fluid",
-  "version": "1.0.2",
-  "description": "generate fluid font sizes for tailwindcss",
+  "name": "tailwindcss-fluid-typescale",
+  "version": "1.0.0",
+  "description": "generate a fluid typescale for tailwindcss",
   "main": "index.cjs",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/changethe/tailwind-fluid.git"
+    "url": "git+https://github.com/changethe/tailwindcss-fluid-typescale.git"
   },
   "keywords": [
     "tailwindcss",
@@ -20,7 +20,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/changethe/tailwind-fluid/issues"
+    "url": "https://github.com/changethe/tailwindcss-fluid-typescale/issues"
   },
-  "homepage": "https://github.com/changethe/tailwind-fluid#readme"
+  "homepage": "https://github.com/changethe/tailwindcss-fluid-typescale#readme"
 }
