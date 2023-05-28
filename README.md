@@ -24,7 +24,7 @@ settings.
 
 ```js
 plugins: [
-    require('tailwind-fluid')({
+    require('tailwindcss-fluid-typescale')({
     // the following are the default settings:
 
     scalingStart: 400, // (px) -> viewport width to start the scaling process
